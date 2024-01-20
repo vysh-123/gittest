@@ -1,0 +1,10 @@
+# .gitignore
+
+# Exclude specific directory
+folder-to-exclude/
+
+# Exclude specific file
+file-to-exclude.ext
+
+# Exclude all files with a certain extension
+*.log
